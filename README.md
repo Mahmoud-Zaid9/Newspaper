@@ -123,7 +123,7 @@ http://127.0.0.1:8000/
 ![Login](images/login.png)
 
 ### Sign Up Page
-![SignUp](images/sign up.png)
+![SignUp](images/signup.png)
 
 ---
 
